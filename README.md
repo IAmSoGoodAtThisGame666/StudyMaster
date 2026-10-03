@@ -1,4 +1,4 @@
-🏆 StudyMaster
+🏆 StudyMaster - 
 Organise your subjects. Perfect your recall.
 StudyMaster is the ultimate all-in-one study hub designed to turn academic chaos into effortless success. By blending the powerful, nested file organisation of Google Drive with the science of active recall, it reimagines how students prepare for exams. Instead of messy notebooks or cluttered text files, StudyMaster lets you build a beautifully structured digital filing cabinet—perfect for creating a master "Year 8" folder divided cleanly by subjects like Maths, Science, and History.
 Everything you need is right at your fingertips. Spin up a new revision deck instantly with the prominent "+" Add button, navigate your workspace via a sleek, icon-driven menu (featuring Home, Files, and Friends tabs), and collaborate effortlessly by sharing entire folder hierarchies with your classmates.
